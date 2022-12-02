@@ -2,7 +2,12 @@ p {
     background-color:lightskyblue;
 color:white;
 }
-head {
-    background-color:darkgoldenrod;
-color:azure;
+
+h1 {
+font-size: 3rem;
+}
+
+#destonations {
+
+    background-color:blue;
 }
