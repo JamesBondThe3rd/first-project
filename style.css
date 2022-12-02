@@ -18,3 +18,7 @@ color:deeppink;
 p {
     font: Times;
 }
+*{
+    font-weight: 900;
+}
+
