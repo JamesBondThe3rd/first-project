@@ -1,6 +1,6 @@
 p {
     background-color:lightskyblue;
-color:white;
+color:grey;
 }
 
 h1 {
@@ -17,12 +17,6 @@ color:deeppink;
 }
 p {
     font: Times;
-}
-*{
-    font-weight: 900;
-}
-P {
-    text-decoration: underline;
 }
 
 
