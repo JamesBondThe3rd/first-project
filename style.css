@@ -1,5 +1,4 @@
 p {
-    background-color:lightskyblue;
 color:grey;
 }
 
@@ -15,9 +14,10 @@ a {
 color:deeppink;
 
 }
-p {
-    font: Times;
-}
+
 #TITANS-TIDBITS{
     color: black;
+}
+* {
+   color:#647FFA 
 }
