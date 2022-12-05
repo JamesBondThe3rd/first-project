@@ -18,12 +18,12 @@ color:deeppink;
 #TITANS-TIDBITS{
     color: black;
 }
-* {
+title {
    color:#647FFA 
 }
 
-p {
-    color:#0AC6FD ;
+* {
+ background-color:#0AC6FD ;
 }
 
 
