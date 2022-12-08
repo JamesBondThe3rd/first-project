@@ -1,25 +1,19 @@
-p {
-color:grey;
-}
 
-h1 {
+
+title {
 font-size: 3rem;
 }
 
-#destonations {
 
- color:blue;
-}
+
 a {
-color:deeppink;
+color:#F2B838;
 
 }
 
-#TITANS-TIDBITS{
-    color:red;
-}
+
 * {
-   color:#647FFA 
+   Background-color:#3D7CF2; 
 }
 
 
@@ -27,6 +21,9 @@ p {
     font-family: 'Italianno', cursive;
 }
 
+p {
+    color:white;
+    }
 
 
 
