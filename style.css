@@ -32,8 +32,9 @@ a {
     text-decoration: none;
     padding: 20px;
     border: 5px outset #0B124D;
-    border-radius: 5px;
+    border-radius: 20px;
     transition-duration: .3s;
+    
     }
     
     a:hover {
