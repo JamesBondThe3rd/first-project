@@ -40,13 +40,7 @@ a {
 a{
     border-spacing:20px ;
     }
-body{
 
-background-image:url('./background.jpeg') ;
-background-repeat: no-repeat;
-background-position:top ;
-z-index:1 ;
-}
     
 video{
 width: 100%;
@@ -54,6 +48,7 @@ height: auto;
 overflow: hidden;
 position: absolute;
 z-index:-1 ;
+
 }
 
 
