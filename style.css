@@ -34,7 +34,7 @@ a {
     border: 5px outset #0B124D;
     border-radius: 5px;
     transition-duration: .3s;
-    
+    z-index:2 ;
     }
     
     a:hover {
