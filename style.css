@@ -45,5 +45,10 @@ a {
 a{
     border-spacing:20px ;
     }
-    
+body{
+
+background-image:url('./background.jpeg') ;
+;background-size: cover;
+background-repeat: no-repeat;
+}
     
