@@ -50,18 +50,14 @@ z-index: index -1; ;
 }
 
 
-.trailer{
+#trailer{
 z-index: index 1; ;
-text-align: center;
+align-self: center;
 font-family: 'Source Sans Pro', sans-serif; 
 text-decoration: #32E1F9;
 }
 
-body {
 
-  background:  linear-gradient (to right, red, yellow);
-    
-    }
 
 
 
