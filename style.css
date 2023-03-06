@@ -2,14 +2,9 @@
 
 title {
 font-size: 3rem;
+z-index: index 5; ;
 }
 
-
-
-a {
-color:#BCC9D1;
-
-}
 
 
 p {
@@ -29,7 +24,7 @@ a {
     border: 5px outset #0B124D;
     border-radius: 5px;
     transition-duration: .3s;
-    z-index:2 ;
+    z-index: index 5; ;
     }
     
     a:hover {
