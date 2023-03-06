@@ -56,7 +56,11 @@ text-align: center;
 font-family: 'Source Sans Pro', sans-serif; 
 }
 
+body {
 
+  background:  linear-gradient (to right, red, yellow);
+    
+    }
 
 
 
