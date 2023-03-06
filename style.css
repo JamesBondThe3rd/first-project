@@ -4,7 +4,10 @@ title {
 font-size: 3rem;
 z-index: index 5; ;
 }
-
+head{
+background-color: #32E1F9;
+z-index:-2 ;
+}
 
 
 p {
@@ -24,7 +27,7 @@ a {
     border: 5px outset #0B124D;
     border-radius: 5px;
     transition-duration: .3s;
-    z-index: index 5; ;
+    z-index: index 1; ;
     }
     
     a:hover {
@@ -42,11 +45,13 @@ width: 100%;
 height: auto;
 overflow: hidden;
 position: absolute;
-z-index: index -5; ;
+z-index: index -1; ;
 
 }
 
-
+div{
+    background-color: #32E1F9;
+}
 
 
 
