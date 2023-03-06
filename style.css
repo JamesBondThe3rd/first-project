@@ -52,7 +52,7 @@ z-index: index -1; ;
 div{
     background-color: #32E1F9;
 }
-div-trailer{
+.trailer{
 z-index: index 1; ;
 }
 
