@@ -44,7 +44,7 @@ video{
 width: 100%;
 height: auto;
 overflow: hidden;
-position: absolute;
+position: top;
 z-index: index -1; ;
 
 }
