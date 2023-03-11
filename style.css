@@ -29,7 +29,6 @@ a {
     border-radius: 5px;
     transition-duration: .3s;
     z-index: index 2; ;
-    text-align: center;
     }
     
     a:hover {
@@ -63,7 +62,9 @@ text-decoration: #32E1F9;
 text-align: center;
 z-index: 1;
 }
-
+h2{
+    text-align: center;
+}
 
 
 
